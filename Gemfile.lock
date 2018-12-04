@@ -138,7 +138,7 @@ DEPENDENCIES
   active_model_serializers (~> 0.10.0)
   byebug
   listen (~> 3.0.5)
-  pg (~> 0.18)
+  pg
   pry-rails
   puma (~> 3.0)
   rack-cors
@@ -148,4 +148,4 @@ DEPENDENCIES
   tzinfo-data
 
 BUNDLED WITH
-   1.16.0.pre.2
+   1.16.4
